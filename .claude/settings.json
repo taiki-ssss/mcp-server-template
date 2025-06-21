@@ -4,6 +4,7 @@
       "Read(project/**)",
       "Read(src/**)",
       "Read(eslint.config.mjs)",
+      "Read(node_modules/**)",
       "Read(package.json)",
       "Read(README.md)",
       "Read(tsconfig.json)",
